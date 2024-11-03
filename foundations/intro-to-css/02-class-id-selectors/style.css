@@ -1,0 +1,19 @@
+.red{
+      background-color:#ff000080;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.red.testone{
+    font-size:24px;
+}
+
+#blue{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green{
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: bold
+}
